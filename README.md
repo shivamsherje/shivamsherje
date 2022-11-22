@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p>
 
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 💬 Ask me about **React,JavaScript,HTML ,CSS**
+
+- 📫 How to reach me **sherjes49@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1znJc2kuO_dFILq5QyuYdQcs-ahOS-4fM/view?usp=share_link](https://drive.google.com/file/d/1znJc2kuO_dFILq5QyuYdQcs-ahOS-4fM/view?usp=share_link)
+
+- ⚡ Fun fact **Fun Facts’ Are Never Fun.**
 - 📫 How to reach me **sherjes49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
