@@ -43,7 +43,7 @@
 <br/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=github-dark"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&theme=github-dark" alt="shivamsherje" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&locale=en" alt="shivamsherje" /></p>
