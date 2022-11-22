@@ -46,10 +46,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&theme=github-dark" alt="shivamsherje" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&locale=en&theme=github-dark" alt="shivamsherje" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&locale=en" alt="shivamsherje" /></p>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
