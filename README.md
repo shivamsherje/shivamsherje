@@ -39,9 +39,24 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p> -->
 
-<p><img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&" alt="shivamsherje" /></p>
+<h2 align="left">📊 My Github Stats</h2>
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="sanuatmasai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsherje&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/shiavmsherje/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivamsherje streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>                                                                                                                                              
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=algolia&show_icons=true&locale=en" alt="shivamsherje" /></p>
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="sanuatmasai Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="shivamsherje" /></a>
+    </p>                                                                 
+ <h6 align="center"> 
 
 
 <div align="center">
