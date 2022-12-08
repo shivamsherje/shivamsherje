@@ -41,7 +41,7 @@
 
 <p><img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&" alt="shivamsherje" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamsherje&show_icons=true&theme=algolia&locale=en&layout=compact" alt="shivamsherje" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=algolia&show_icons=true&locale=en" alt="shivamsherje" /></p>
 
 
 <div align="center">
