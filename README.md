@@ -68,5 +68,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
+<div>
+
 <img align="center" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 
+</div>
