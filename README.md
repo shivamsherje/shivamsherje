@@ -58,7 +58,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="sanuatmasai Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&theme=react&count_private=true" alt="shivamsherje" /></a>
+    <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="sanuatmasai Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&show_icons=true&theme=react&count_private=true&hide_border=true" alt="shivamsherje" /></a>
     </p>                                                                 
  <h6 align="center"> 
 
