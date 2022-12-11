@@ -1,5 +1,8 @@
 <h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Shivam🌻</h1>
 <h3 align="center">- A passionate MERN stack developer 🧑🏻‍💻 from India -</h3>
+
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsherje&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsherje" /> </p>
