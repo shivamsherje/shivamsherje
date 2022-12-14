@@ -62,6 +62,12 @@
     </p>                                                                 
  <h6 align="center"> 
 
+## 🏆 GitHub Trophies
+<div align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=shivamsherje&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+<!-- ![](https://github-profile-trophy.vercel.app/?username=shivamsherje&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
