@@ -66,10 +66,12 @@
 <div  align="center">
 <img  align="center" src="https://github-profile-trophy.vercel.app/?username=shivamsherje&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
+<br/>
+<br/>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 <br/>
-<br/>
+
 
 
 <div align="center">
