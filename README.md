@@ -34,9 +34,18 @@
 </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
- </p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 
 <br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
