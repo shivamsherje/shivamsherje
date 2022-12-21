@@ -46,7 +46,7 @@
 <h2 align="left">📊 My Github Stats</h2>
    <br/>   
      <p align="center">      
-  <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsherje&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Top Languages" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true" /></a>
       </p>   
      <br/>
    <p align="center">
