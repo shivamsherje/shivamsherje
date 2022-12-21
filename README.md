@@ -41,6 +41,7 @@
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png"  width="48" height="48"/> </a>
    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
          <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a>
+           <a href="https://nodejs.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 
