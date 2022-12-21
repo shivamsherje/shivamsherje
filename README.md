@@ -42,13 +42,9 @@
    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
          <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a>
            <a href="https://nodejs.org/en/ target="_blank"> <img width="50px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> </a>
-                <a href="https://mui.com/material-ui" target="_blank"> <img src="https://user-images.githubusercontent.com/97978681/208958406-16fd1ecf-30ad-42f9-9021-0371e6b8dbdb.png
-" width="48" height="48"/> </a> 
+                <a href="https://mui.com/material-ui" target="_blank"> <img src="![136-1363736_express-js-icon-png-transparent-png](https://user-images.githubusercontent.com/97978681/208958406-16fd1ecf-30ad-42f9-9021-0371e6b8dbdb.png)" width="48" height="48"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-
-
-  
 
 </p>
 
