@@ -41,7 +41,7 @@
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png"  width="48" height="48"/> </a>
    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
          <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a>
-           <a href="https://nodejs.org/en/ target="_blank"> <img width="50px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> </a>
+           <a href="https://nodejs.org/en/ target="_blank"> <img width="50px"src="https://user-images.githubusercontent.com/97978681/208960793-0c26e119-ea58-4798-bb07-e8567f1ba731.png"/> </a>
                 <a href="https://mui.com/material-ui" target="_blank"> <img src="https://user-images.githubusercontent.com/97978681/208958406-16fd1ecf-30ad-42f9-9021-0371e6b8dbdb.png" width="48" height="48"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
