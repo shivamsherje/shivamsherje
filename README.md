@@ -24,27 +24,27 @@
 - 📫 How to reach me **sherjes49@gmail.com**
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
-<h3 align="left">📱 Connect with me:</h3>
-<p align="left">
+<h3 align="center">📱 Connect with me:</h3>
+<p align="center">
 
 <a href="https://linkedin.com/in/shivam-sherje-996124138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-sherje-996124138" height="30" width="40" /></a><a href="https://twitter.com/sherjeshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherjeshivam" height="30" width="40" /></a>
 
 </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
-<h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
+<h3 align="center">🧑🏻‍💻 Languages and Tools:</h3>
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png"  width="48" height="48"/> </a>
-   <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
-         <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a>
-           <a href="https://nodejs.org/en/ target="_blank"> <img width="50px"src="https://user-images.githubusercontent.com/97978681/208960793-0c26e119-ea58-4798-bb07-e8567f1ba731.png"/> </a>
-                <a href="https://mui.com/material-ui" target="_blank"> <img src="https://user-images.githubusercontent.com/97978681/208958406-16fd1ecf-30ad-42f9-9021-0371e6b8dbdb.png" width="48" height="48"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png"  width="48" height="48"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
+    <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a>
+    <a href="https://nodejs.org/en/ target="_blank"> <img width="50px"src="https://user-images.githubusercontent.com/97978681/208960793-0c26e119-ea58-4798-bb07-e8567f1ba731.png"/> </a>
+    <a href="https://mui.com/material-ui" target="_blank"> <img src="https://user-images.githubusercontent.com/97978681/208958406-16fd1ecf-30ad-42f9-9021-0371e6b8dbdb.png" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48"/> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 
 </p>
 
@@ -53,7 +53,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&"><img src="https://github-profile-trophy.vercel.app/?username=shivamsherje" alt="shivamsherje" /></a> </p> -->
 
-<h2 align="left">📊 My Github Stats</h2>
+<h2 align="center">📊 My Github Stats</h2>
    <br/>   
      <p align="center">      
   <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Top Languages" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true" /></a>
