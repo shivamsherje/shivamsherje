@@ -25,11 +25,11 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 <h2 align="center">📱 Connect with me:</h2>
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/shivam-sherje-996124138" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-sherje-996124138" height="30" width="40" /></a><a href="https://twitter.com/sherjeshivam" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherjeshivam" height="30" width="40" /></a>
 
-</p>
+</div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
 <h2 align="center">🧑🏻‍💻 Languages and Tools:</h2>
 
