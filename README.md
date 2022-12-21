@@ -39,8 +39,6 @@
 
 <br/>
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-
-<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
