@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sherjes49@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1znJc2kuO_dFILq5QyuYdQcs-ahOS-4fM/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kX2R29HLrfiGPsctH7j4LAhke7q_Rv3J/view?usp=share_link)
 
 - 👋 I'm a photographer, check my captured pics [here](https://www.instagram.com/shivboi_photography/)
 - ⚡ Fun fact **Fun Facts’ Are Never Fun.**
