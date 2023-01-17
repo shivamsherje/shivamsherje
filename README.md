@@ -63,10 +63,10 @@
   <a href="https://github.com/shivamsherje/github-readme-stats"><img alt="shivamsherje Top Languages" src="https://github-readme-stats.vercel.app/api?username=shivamsherje&theme=react&hide_border=true&include_all_commits=true&count_private=true" /></a>
       </p>   
      <br/>
-     
+
    <p align="center">
     <a href="https://github.com/SORDE12/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivamsherje streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsherje&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivamsherje streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SORDE12&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
